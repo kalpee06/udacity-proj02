@@ -137,10 +137,10 @@ Starting Live Log Stream ---
 ## Enhancements
 -----------------
 
-<TODO: A short description of how to improve the project in the future>
+Coming soon.
 
 ## Demo 
 ----------
-<TODO: Add link Screencast on YouTube>
+https://youtu.be/hiecYvsYQSM
 
 
