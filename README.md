@@ -15,7 +15,7 @@ https://video.udacity-data.com/topher/2020/July/5f21ce4e_building-a-ci-cd-pipeli
 <TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
 Familiarity with Azure portal, Azure cloud shell and GitHub is required.
 
-Step 1 - Build a Github repository.
+Step 1 - Build a Github repository.\n
 Step 2 - Launch Azure Cloud Shell environment and clone the repository from Github.
 Step 3 - Create the Makefile, used to create shortcuts to build, test and deploy a project.
 Step 4 - Create Requirements text file, it is a convenient way to list what packages a project needs.
