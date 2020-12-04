@@ -9,9 +9,11 @@ Project plan is distributed among different stages and timeline. Please refer to
 https://researchtriangleinstitute-my.sharepoint.com/:x:/g/personal/kpatel_rti_org/EQrAeu2-kLtKnvCk-dxWIRQBjNheZCtcbY3bpU_I1NxhGg?e=uDF7t0
 
 We will be tracking the progress of project via Trello board.
+
 https://trello.com/b/bHPOgaQs
 
 Architectural Diagram for Agile project management can be found at below link.
+
 https://video.udacity-data.com/topher/2020/July/5f21ce4e_building-a-ci-cd-pipeline/building-a-ci-cd-pipeline.png
 
 ##Instructions for running the Python project.
