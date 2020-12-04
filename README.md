@@ -1,18 +1,20 @@
-# Overview
+## Overview
+--------------
 Building a CI/CD pipeline with GitHub Actions and Azure Pipelines.
 
 ## Project Plan
+------------------
 Project plan is distributed among different stages and timeline. Please refer to Excel sheet.
 https://researchtriangleinstitute-my.sharepoint.com/:x:/g/personal/kpatel_rti_org/EQrAeu2-kLtKnvCk-dxWIRQBjNheZCtcbY3bpU_I1NxhGg?e=uDF7t0
 
 We will be tracking the progress of project via Trello board.
 https://trello.com/b/bHPOgaQs
 
-## Instructions
 Architectural Diagram for Agile project management can be found at below link.
 https://video.udacity-data.com/topher/2020/July/5f21ce4e_building-a-ci-cd-pipeline/building-a-ci-cd-pipeline.png
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+##Instructions for running the Python project.
+---------------------------------------------
 Familiarity with Azure portal, Azure cloud shell and GitHub is required.
 
 Step 1 - Build a Github repository.
@@ -36,35 +38,29 @@ Step 14 - Inspect logs of running application - https://<app-name>.scm.azurewebs
           or can stream them - az webapp log tail.
 Step 15 - Enable continuous deployment with Azure Pipelines.
 
-
-
-
-
-  
-
-
+##Please refer to below link for screenshots - 
+--------------------------------------------
+https://researchtriangleinstitute-my.sharepoint.com/:w:/g/personal/kpatel_rti_org/ER7m9EwDvNVIoc_cLKGu6nUBIJ39CtTAl040Xw-gYsMr-g?e=0BiEZ8
 * Project running on Azure App Service
-
 * Project cloned into Azure Cloud Shell
-
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
-
 * Output of a test run
-
 * Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
-
 * Running Azure App Service from Azure Pipelines automatic deployment
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
+##Successful prediction from deployed flask app in Azure Cloud Shell.
+------------------------------------------------------------------------
+[Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
 The output should look similar to this:
 
 ```bash
-udacity@Azure:~$ ./make_predict_azure_app.sh
+kalpesh@Azure:~/udacity-proj02$ ./make_predict_azure_app.sh
 Port: 443
 {"prediction":[20.35373177134412]}
-```
+kalpesh@Azure:~/udacity-proj02$
 
-* Output of streamed log files from deployed application
+##Output of streamed log files from deployed application
+--------------------------------------------------------
 
 kalpesh@Azure:~/udacity-proj02$ az webapp log tail
 2020-12-04T08:47:19  Welcome, you are now connected to log-streaming service.
@@ -136,11 +132,12 @@ Starting Live Log Stream ---
 > 
 
 ## Enhancements
+-----------------
 
 <TODO: A short description of how to improve the project in the future>
 
 ## Demo 
-
+----------
 <TODO: Add link Screencast on YouTube>
 
 
