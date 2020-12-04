@@ -5,6 +5,7 @@ Building a CI/CD pipeline with GitHub Actions and Azure Pipelines.
 ## Project Plan
 ------------------
 Project plan is distributed among different stages and timeline. Please refer to Excel sheet.
+
 https://researchtriangleinstitute-my.sharepoint.com/:x:/g/personal/kpatel_rti_org/EQrAeu2-kLtKnvCk-dxWIRQBjNheZCtcbY3bpU_I1NxhGg?e=uDF7t0
 
 We will be tracking the progress of project via Trello board.
