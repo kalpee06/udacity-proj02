@@ -142,8 +142,7 @@ Starting Live Log Stream ---
 
 ## Enhancements
 -----------------
-
-Coming soon.
+Code to support multiple instances of webapp and a load balancer.
 
 ## Demo 
 ----------
