@@ -48,7 +48,7 @@ Step 15 - Enable continuous deployment with Azure Pipelines.
 
 ##Please refer to below link for screenshots - 
 --------------------------------------------
-https://researchtriangleinstitute-my.sharepoint.com/:w:/g/personal/kpatel_rti_org/ER7m9EwDvNVIoc_cLKGu6nUBIJ39CtTAl040Xw-gYsMr-g?e=0BiEZ8
+https://researchtriangleinstitute-my.sharepoint.com/:w:/g/personal/kpatel_rti_org/EYb41iIvG_VJsK62lU9SbgUB1Derd7T5mWrusWnaiUgWlw?e=bBb5ai
 * Project running on Azure App Service
 * Project cloned into Azure Cloud Shell
 * Passing tests that are displayed after running the `make all` command from the `Makefile`
