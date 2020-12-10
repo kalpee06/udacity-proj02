@@ -1,3 +1,6 @@
+## Status Badge
+-----------------
+![Python application test with Github Actions](https://github.com/kalpee06/udacity-proj02/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
 
 
 ## Overview
@@ -145,4 +148,3 @@ Coming soon.
 ----------
 https://youtu.be/hiecYvsYQSM
 
-![Python application test with Github Actions](https://github.com/kalpee06/udacity-proj02/workflows/Python%20application%20test%20with%20Github%20Actions/badge.svg)
